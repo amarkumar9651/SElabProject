@@ -1,0 +1,64 @@
+input[type=text] {
+
+    
+    
+        width: 15%;
+        padding: 4px 10px;
+        margin: 2px 0;
+        box-sizing: border-box;
+        box-sizing: border-box;
+        border: 1px solid red;
+        border-radius: 2px;
+        background-color: #3CBC8D;
+        color: white;
+      
+  }
+  input[type=password] {
+
+    
+    
+    width: 15%;
+    padding: 4px 10px;
+    margin: 2px 0;
+    box-sizing: border-box;
+    box-sizing: border-box;
+    border: 1px solid red;
+    border-radius: 2px;
+    background-color: #3CBC8D;
+    color: white;
+  
+}
+  
+  input[type=date] {
+    
+    width: 15%;
+    padding: 4px 10px;
+    margin: 2px 0;
+    box-sizing: border-box;
+    box-sizing: border-box;
+    border: 1px solid red;
+    border-radius: 2px;
+    background-color: #3CBC8D;
+    color: white;
+  }
+  
+  input[type=time] {
+    
+    width: 15%;
+    padding: 4px 10px;
+    margin: 2px 0;
+    box-sizing: border-box;
+    box-sizing: border-box;
+    border: 1px solid red;
+    border-radius: 2px;
+    background-color: #3CBC8D;
+    color: white;
+  }
+
+  .center {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+  }
+  
